@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "af74611d-27aa-49ab-981b-1b96374298db": {
+      "ProjectGuid": "af74611d-27aa-49ab-981b-1b96374298db",
+      "DisplayName": "ex03_CampeonDeBarrio",
+      "ColorIndex": 0
+    },
+    "b3c20fc1-f38f-4467-ac52-6e9916ec25bb": {
+      "ProjectGuid": "b3c20fc1-f38f-4467-ac52-6e9916ec25bb",
+      "DisplayName": "CampeonDeBarrioTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

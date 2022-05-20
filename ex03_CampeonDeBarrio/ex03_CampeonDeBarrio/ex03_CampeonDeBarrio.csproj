@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1EF58A82-BD5C-439F-A5C6-5422E8900DE4}</ProjectGuid>
+    <ProjectGuid>{AF74611D-27AA-49AB-981B-1B96374298DB}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>ex03_CampeonDeBarrio</RootNamespace>
     <AssemblyName>ex03_CampeonDeBarrio</AssemblyName>
