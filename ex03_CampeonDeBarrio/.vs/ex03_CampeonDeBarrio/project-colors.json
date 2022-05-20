@@ -1,11 +1,16 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "1ef58a82-bd5c-439f-a5c6-5422e8900de4": {
-      "ProjectGuid": "1ef58a82-bd5c-439f-a5c6-5422e8900de4",
+    "af74611d-27aa-49ab-981b-1b96374298db": {
+      "ProjectGuid": "af74611d-27aa-49ab-981b-1b96374298db",
       "DisplayName": "ex03_CampeonDeBarrio",
       "ColorIndex": 0
+    },
+    "b3c20fc1-f38f-4467-ac52-6e9916ec25bb": {
+      "ProjectGuid": "b3c20fc1-f38f-4467-ac52-6e9916ec25bb",
+      "DisplayName": "CampeonDeBarrioTest",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

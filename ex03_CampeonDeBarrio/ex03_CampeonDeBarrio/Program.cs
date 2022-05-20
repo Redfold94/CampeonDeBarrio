@@ -77,18 +77,18 @@ namespace ex03_CampeonDeBarrio
                 Console.WriteLine(unJugador.InfoJugador());
 
             //Finalmente, identificamos quien es el campeón invocando la función
-            IdentificaCampeon(losJugadores);
+            string x = IdentificaCampeon(losJugadores);
+            Console.WriteLine(x);
         }
 
         /// <summary>
         /// Identifica quien es el campeón entre los jugadores a partir del criterio definido
         /// </summary>
         /// <param name="losJugadores">Arreglo de los jugadores</param>
-        static void IdentificaCampeon(Jugador[] arregloJugadores)
+        public static string IdentificaCampeon(Jugador[] arregloJugadores)
         {
             //Arbitrariamente seleccionamos el campeón como el primer jugador del arreglo
             Jugador jugadorCampeon = arregloJugadores[0];
-
 
             //Comparamos con el resto de jugadores
             for (int i = 1; i < arregloJugadores.Length; i++)
@@ -105,15 +105,16 @@ namespace ex03_CampeonDeBarrio
 
             //Aqui visualizamos resultados
             if (cantidadCampeones == 1)
-                Console.WriteLine($"\n\nEl Campeón del Barrio es {jugadorCampeon.Nombre}\n" +
-                $" que obtuvo promedio de {jugadorCampeon.Promedio.ToString("0.00")} puntos por campaña.");
+                return ($"\n\nEl Campeón del Barrio es {jugadorCampeon.Nombre}\n que obtuvo promedio de {jugadorCampeon.Promedio.ToString("0.00")} puntos por campaña.");
+            
             else
             {
-                Console.WriteLine($"\n\nSe presentó empate con un puntaje de {jugadorCampeon.Promedio.ToString("0.00")} entre: ");
+                string nota = ($"\n\nSe presentó empate con un puntaje de {jugadorCampeon.Promedio.ToString("0.00")} entre: ");
 
                 foreach (Jugador unJugador in arregloJugadores)
                     if (unJugador.Promedio == jugadorCampeon.Promedio)
-                        Console.WriteLine($"- {unJugador.Nombre} con {unJugador.Campañas} campaña(s) jugadas");
+                        nota += ($"\n {unJugador.Nombre} con {unJugador.Campañas} campaña(s) jugadas");
+                return nota;
             }
         }
     }
