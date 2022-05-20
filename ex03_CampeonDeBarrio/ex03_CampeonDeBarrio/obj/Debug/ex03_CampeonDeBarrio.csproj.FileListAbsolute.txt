@@ -6,3 +6,11 @@ C:\Users\Redfold94\Desktop\UPB\Programación\Examen 05\ex03_CampeonDeBarrio\ex03
 C:\Users\Redfold94\Desktop\UPB\Programación\Examen 05\ex03_CampeonDeBarrio\ex03_CampeonDeBarrio\obj\Debug\ex03_CampeonDeBarrio.csproj.CoreCompileInputs.cache
 C:\Users\Redfold94\Desktop\UPB\Programación\Examen 05\ex03_CampeonDeBarrio\ex03_CampeonDeBarrio\obj\Debug\ex03_CampeonDeBarrio.exe
 C:\Users\Redfold94\Desktop\UPB\Programación\Examen 05\ex03_CampeonDeBarrio\ex03_CampeonDeBarrio\obj\Debug\ex03_CampeonDeBarrio.pdb
+C:\Users\Redfold94\Documents\GitHub\CampeonDeBarrio\ex03_CampeonDeBarrio\ex03_CampeonDeBarrio\bin\Debug\ex03_CampeonDeBarrio.exe.config
+C:\Users\Redfold94\Documents\GitHub\CampeonDeBarrio\ex03_CampeonDeBarrio\ex03_CampeonDeBarrio\bin\Debug\ex03_CampeonDeBarrio.exe
+C:\Users\Redfold94\Documents\GitHub\CampeonDeBarrio\ex03_CampeonDeBarrio\ex03_CampeonDeBarrio\bin\Debug\ex03_CampeonDeBarrio.pdb
+C:\Users\Redfold94\Documents\GitHub\CampeonDeBarrio\ex03_CampeonDeBarrio\ex03_CampeonDeBarrio\obj\Debug\ex03_CampeonDeBarrio.csproj.AssemblyReference.cache
+C:\Users\Redfold94\Documents\GitHub\CampeonDeBarrio\ex03_CampeonDeBarrio\ex03_CampeonDeBarrio\obj\Debug\ex03_CampeonDeBarrio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Redfold94\Documents\GitHub\CampeonDeBarrio\ex03_CampeonDeBarrio\ex03_CampeonDeBarrio\obj\Debug\ex03_CampeonDeBarrio.csproj.CoreCompileInputs.cache
+C:\Users\Redfold94\Documents\GitHub\CampeonDeBarrio\ex03_CampeonDeBarrio\ex03_CampeonDeBarrio\obj\Debug\ex03_CampeonDeBarrio.exe
+C:\Users\Redfold94\Documents\GitHub\CampeonDeBarrio\ex03_CampeonDeBarrio\ex03_CampeonDeBarrio\obj\Debug\ex03_CampeonDeBarrio.pdb
